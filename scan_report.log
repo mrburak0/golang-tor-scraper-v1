@@ -1,0 +1,49 @@
+DARK WEB SCAN REPORT
+Date        : 2025-12-31 16:57:51
+Tor Port    : 9150
+Total Target: 11
+
+[1] Target
+URL    : http://dna777fdlbcv24cx5ctdvydvfa277vgb6wd6w4ztem6cho3kqogi7bqd.onion
+[2] Target
+URL    : http://twcd7fo4eepxznx7vajl5njkfpkz3g3z6qhynffcy3hb6n42dov2omid.onion
+[3] Target
+URL    : http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion
+Result : SUCCESS
+--------------------------------
+[4] Target
+URL    : http://ransomlookumjrc6erzqn467lkcu2t5h4enjzfigvsxrrktxicysi2yd.onion
+Result : SUCCESS
+--------------------------------
+[5] Target
+URL    : https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion
+Result : SUCCESS
+--------------------------------
+[6] Target
+URL    : http://hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion
+Result : SUCCESS
+--------------------------------
+[7] Target
+URL    : http://ua3br3q7xakgq7vug3vbe5uoinavjaklucxtkxxxyzhbfrl75wugioqd.onion
+Result : SUCCESS
+--------------------------------
+[8] Target
+URL    : http://bmewst6p4bqkagongvohr26rv576wwuuquxmzqpao7gmkhdqgeqvcpid.onion
+Result : FAILED_HTTP
+--------------------------------
+[9] Target
+URL    : http://torbuy4iw7eghmdkpllz2tjvphtsey6a47mn2mjsmcii4vlv3wr2csqd.onion/forum
+Result : SUCCESS
+--------------------------------
+[10] Target
+URL    : http://bizzle7qdloigdiiqionusf7dfw6tmrqhtjwkjviwtjmwovphqftvaid.onion
+Result : FAILED_HTTP
+--------------------------------
+[11] Target
+URL    : http://aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion
+Result : SUCCESS
+--------------------------------
+Result : SUCCESS
+--------------------------------
+Result : SUCCESS
+--------------------------------
